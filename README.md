@@ -1,2 +1,2 @@
-# Students-Management-System-With-c-
+# Students Management System c++
 A simple Student Management System (SMS) that allows users to add, edit, delete, search, and display student records efficiently through a console interface.
